@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "KiaokhaoKhiaoKhachi",
-    "slug": "KiaokhaoKhiaoKhachi",
+    "name": "my_amplify_app",
+    "slug": "my_amplify_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,15 +13,13 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.supphit.KiaokhaoKhiaoKhachi"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.supphit.KiaokhaoKhiaoKhachi"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
